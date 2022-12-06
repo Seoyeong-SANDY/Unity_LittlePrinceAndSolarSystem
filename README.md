@@ -2,7 +2,7 @@
  LittlePrinceAndSolarSystem
 
 깃모지	코드	용도 설명
-🎨	:art:	코드의 구조/형태 개선
+🎨	:art:	코드의 구조/형태 개선 \n
 ⚡️	:zap:	성능 개선
 🔥	:fire:	코드/파일 삭제
 🐛	:bug:	버그 수정
