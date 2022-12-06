@@ -1,7 +1,5 @@
 # Unity_LittlePrinceAndSolarSystem
- LittlePrinceAndSolarSystem
 
-깃모지	코드	용도 설명
 🎨	:art:	코드의 구조/형태 개선
 
 
